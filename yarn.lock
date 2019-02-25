@@ -75,6 +75,11 @@
   resolved "https://registry.yarnpkg.com/@types/node/-/node-11.9.5.tgz#011eece9d3f839a806b63973e228f85967b79ed3"
   integrity sha512-vVjM0SVzgaOUpflq4GYBvCpozes8OgIIS5gVXVka+OfK3hvnkC1i93U8WiY2OtNE4XUWyyy/86Kf6e0IHTQw1Q==
 
+"@types/node@^10.12.18":
+  version "10.12.27"
+  resolved "https://registry.yarnpkg.com/@types/node/-/node-10.12.27.tgz#eb3843f15d0ba0986cc7e4d734d2ee8b50709ef8"
+  integrity sha512-e9wgeY6gaY21on3ve0xAjgBVjGDWq/xUteK0ujsE53bUoxycMkqfnkUgMt6ffZtykZ5X12Mg3T7Pw4TRCObDKg==
+
 "@types/node@^7.0.12":
   version "7.10.3"
   resolved "https://registry.yarnpkg.com/@types/node/-/node-7.10.3.tgz#b85d16331cf5ffe434600816593f86e10ccc0e73"
@@ -2323,6 +2328,15 @@ electron-installer-snap@^3.1.0:
     tmp-promise "^1.0.3"
     which "^1.3.0"
     yargs "^12.0.5"
+
+electron-nightly@^6.0.0-nightly.20190213:
+  version "6.0.0-nightly.20190213"
+  resolved "https://registry.yarnpkg.com/electron-nightly/-/electron-nightly-6.0.0-nightly.20190213.tgz#4a7df6d432e6b954613a9d79eac36c0658e054bf"
+  integrity sha512-jcX182AfKAwqbB5uiqcRuatBAIPxiPFHF3KgU6W7EZMCqLJhedEdcRuJ091kT6cQs/9mEHlKpwAlbLnothuT3w==
+  dependencies:
+    "@types/node" "^10.12.18"
+    electron-download "^4.1.0"
+    extract-zip "^1.0.3"
 
 electron-osx-sign@^0.4.1:
   version "0.4.11"

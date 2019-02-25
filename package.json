@@ -56,6 +56,7 @@
     "babel-preset-env": "^1.7.0",
     "babel-preset-react": "^6.24.1",
     "electron-forge": "^5.2.4",
+    "electron-nightly": "^6.0.0-nightly.20190213",
     "electron-prebuilt-compile": "4.0.0",
     "eslint": "^3",
     "eslint-config-airbnb": "^15",
