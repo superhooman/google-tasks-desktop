@@ -1,6 +1,6 @@
 # google-tasks-desktop
 Desktop version of Google Tasks
-<img src="screenshot.png" width="125" align="right">
+<img src="screenshot.png" width="250" align="right">
 I just tried to create desktop version of Google Tasks using electron. It simply displays Gmail web version of Google Tasks.
 
 ## Contribute
